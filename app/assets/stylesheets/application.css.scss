@@ -21,7 +21,7 @@
 
 // Typography Styles
 h1, h2, h3 {
-  font-family: 'Oleo Script Swash Caps', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 // Background Gradient
@@ -42,7 +42,12 @@ h1, h2, h3 {
   }
 }
 
-.navbar{
+.navbar-brand {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.navbar {
   border: none;
 }
 
